@@ -1,1 +1,1 @@
-This contains all the things i learned in NLP.
+This contains all the things I learned in NLP.
